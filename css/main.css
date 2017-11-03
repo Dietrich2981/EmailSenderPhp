@@ -1,0 +1,41 @@
+.main {
+    margin: 20px 0;
+}
+
+body {
+    background-color: #cccccc;
+    padding-top: 40px;
+}
+
+.mbpx {
+    margin-bottom: 15px;
+}
+
+.info {
+    margin-top: 20px;
+}
+
+.stat {
+    margin-top: 3%;
+    font-size: 16px;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.template .form-group {
+    margin-bottom: 0;
+}
+
+.template {
+    border: 1px #000000 solid;
+    padding: 5px;
+}
+
+.form-inline .form-control {
+    width: 60%;
+}
+
+.form-inline .m_btn {
+    width: 38%;
+}
